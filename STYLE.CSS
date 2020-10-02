@@ -1,0 +1,59 @@
+header {
+    color: lightseagreen;
+    float: center;
+
+}
+
+nav {
+    background-color: darkblue;
+    color: white;
+    float: center;
+
+}
+
+section {
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    width: 600px;
+    float: center;
+}
+
+article {
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    color: black;
+    width: 600px;
+    float: center;
+}
+
+aside {
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: solid;
+    color: lightseagreen;
+    width: 230px;
+    float: right;
+
+}
+
+figure {
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+
+figure img {
+    max-width: 200px;
+}
+
+footer {
+    background-color: darkblue;
+    border-width: 2px;
+    border-style: solid;
+    color: white;
+    clear: both;
+    float: center;
+}
